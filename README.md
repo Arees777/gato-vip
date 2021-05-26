@@ -50,8 +50,12 @@
 
 **VIP SUPREMO**
 
-```SE PUEDE COMPRAR ALGUNO DE ESTOS 3 PAQUETES```
+```SE PUEDE COMPRAR ALGUNO DE ESTOS 2 PAQUETES```
 
 - 12 dólares = 1 año **VENTAJAS:**
 
 >Tendrás un rol exclusivo en el servidor de [soporte](https://discord.gg/Y8KrtS3VEA) | ```Podrás agregar 9 comandos al bot``` | ```Todas las personas de tu servidor recibirán VIP por el mismo tiempo que tu lo compraste | Tendrán acceso anticipado a futuras funciones | Podrás elegir cuanta xp ganarán los usuarios de tu servidor por mensaje | Más ventajas en proceso...```
+
+- 50 dólares = Para siempre **VENTAJAS:**
+
+>```Todo lo anterior, en este caso podrás agregar 14 comandos al bot y tendrás todo.```
