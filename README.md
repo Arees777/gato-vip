@@ -32,7 +32,7 @@
 
 - 3 DÓLARES = 1 MES **VENTAJAS:**
 
-Tendrás un rol exclusivo en el servidor de [soporte](https://discord.gg/Y8KrtS3VEA) | ```Podrás agregar 3 comandos al bot``` | ```3 personas de tu servidor recibirán VIP por el mismo tiempo que tu lo compraste.
+Tendrás un rol exclusivo en el servidor de [soporte](https://discord.gg/Y8KrtS3VEA) | ```Podrás agregar 3 comandos al bot``` | ```3 personas de tu servidor recibirán VIP por el mismo tiempo que tu lo compraste.```
 
 - 6 DÓLARES = 3 MESES **VENTAJAS:**
 
