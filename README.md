@@ -36,7 +36,7 @@ Tendrás un rol exclusivo en el servidor de [soporte](https://discord.gg/Y8KrtS3
 
 - 6 DÓLARES = 3 MESES **VENTAJAS:**
 
-Tendrás un rol exclusivo en el servidor de [soporte](https://discord.gg/Y8KrtS3VEA)``` | ```Podrás agregar 6 comandos al bot``` | ```10 personas de tu servidor recibirán VIP por el mismo tiempo que tu lo compraste | ```Tendrás acceso anticipado a futuras funciones.```
+Tendrás un rol exclusivo en el servidor de [soporte](https://discord.gg/Y8KrtS3VEA)``` | ```Podrás agregar 6 comandos al bot``` | ```10 personas de tu servidor recibirán VIP por el mismo tiempo que tu lo compraste``` | ```Tendrás acceso anticipado a futuras funciones.```
 
 - 9 DÓLARES = 1 AÑO 
 
