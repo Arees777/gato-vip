@@ -16,6 +16,8 @@
 
 ```Por el momento solo hay 1 método, el cual es vía paypal.```
 
+```Algo importante: El dinero que sea donado será ocupado para pagar un mejor HOST al bot.```
+
 
 ***Al igual que hay 2 paquetes de VIP***
 
