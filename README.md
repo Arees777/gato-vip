@@ -17,7 +17,7 @@
 ```Por el momento solo hay 1 método, el cual es vía paypal.```
 
 
-***Al igual que hay 3 paquetes de VIP***
+***Al igual que hay 2 paquetes de VIP***
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -42,3 +42,10 @@ Tendrás un rol exclusivo en el servidor de [soporte](https://discord.gg/Y8KrtS3
 
 Tendrás un rol exclusivo en el servidor de [soporte](https://discord.gg/Y8KrtS3VEA) | ```Podrás agregar 9 comandos al bot``` | ```17 personas de tu servidor recibirán VIP por el mismo tiempo que tu lo compraste | Tendrás acceso anticipado a futuras funciones | Podrás elegir cuanta xp ganarán los usuarios de tu servidor por mensaje.```
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+```PAQUETE 2```
+
+**VIP SUPREMO**
+
+```SE PUEDE COMPRAR ALGUNO DE ESTOS 3 PAQUETES```
